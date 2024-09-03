@@ -26,12 +26,14 @@ Bu Python kodu, DJI Tello dronunu klavye kullanarak kontrol etmenize olanak tan�
 3. `keyboardcontrolimagecapture.py` dosyasını çalıştırın.
 4. Klavyeyi kullanarak dronu kontrol edin. (İlk komutu verirken pencereye tıklamanız gerektiğini unutmayın; bunu anlamak biraz zaman alabilir.)
 
-## Yararlanılan Kaynaklar
-
-- [Tello Drone Python Programming Tutorial | OpenCV](https://www.youtube.com/watch?v=LmEcyQnfpDA&t=522s&pp=ygUSdGVsbG8gZHJvbmUgY29kaW5n)
-
 Dron kontrolünün ekran kaydını izleyerek nasıl çalıştığını görebilirsiniz.
 
-- [Ekran Kaydı](https://github.com/user-attachments/assets/8680d435-31ee-4816-8bd6-dd246b4c91c4)
+
+
+
+https://github.com/user-attachments/assets/1198baeb-8e34-4f9c-8223-1148b6fc7b7d
+
+## Yararlanılan Kaynaklar
+ [Tello Drone Python Programming Tutorial | OpenCV](https://www.youtube.com/watch?v=LmEcyQnfpDA&t=522s&pp=ygUSdGVsbG8gZHJvbmUgY29kaW5n)
 
 
