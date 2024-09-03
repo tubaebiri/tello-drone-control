@@ -27,7 +27,7 @@ https://github.com/user-attachments/assets/1198baeb-8e34-4f9c-8223-1148b6fc7b7d
 1. Gerekli kütüphaneleri yükleyin.
 2. Tello dronunuzun Wi-Fi aracılığıyla bilgisayarınıza bağlı olduğundan emin olun.
 3. `keyboardcontrolimagecapture.py` dosyasını çalıştırın.
-4. Klavyeyi kullanarak dronu kontrol edin. (Pencereye tıklayarak ilk komutu vermeniz gerekiyor.)
+4. Klavyeyi kullanarak dronu kontrol edin. (Pencereye tıklayarak ilk kalkış komutunu (e) vermeniz gerekiyor.)
 
 ## Yararlanılan Kaynaklar
  [Tello Drone Python Programming Tutorial | OpenCV](https://www.youtube.com/watch?v=LmEcyQnfpDA&t=522s&pp=ygUSdGVsbG8gZHJvbmUgY29kaW5n)
