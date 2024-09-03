@@ -2,6 +2,9 @@
 # Tello Drone Kontrol ve Görüntü Yakalama
 
 Bu Python kodu, DJI Tello dronunu klavye kullanarak kontrol etmenize olanak tanır. Dronu farklı yönlerde hareket ettirebilir, kalkış ve iniş yaptırabilir ve görüntü yakalayabilirsiniz.
+Dron kontrolünün ekran kaydını izleyerek nasıl çalıştığını görebilirsiniz.
+
+https://github.com/user-attachments/assets/1198baeb-8e34-4f9c-8223-1148b6fc7b7d
 
 ## Yön Kontrolü
 
@@ -25,13 +28,6 @@ Bu Python kodu, DJI Tello dronunu klavye kullanarak kontrol etmenize olanak tan�
 2. Tello dronunuzun Wi-Fi aracılığıyla bilgisayarınıza bağlı olduğundan emin olun.
 3. `keyboardcontrolimagecapture.py` dosyasını çalıştırın.
 4. Klavyeyi kullanarak dronu kontrol edin. (İlk komutu verirken pencereye tıklamanız gerektiğini unutmayın; bunu anlamak biraz zaman alabilir.)
-
-Dron kontrolünün ekran kaydını izleyerek nasıl çalıştığını görebilirsiniz.
-
-
-
-
-https://github.com/user-attachments/assets/1198baeb-8e34-4f9c-8223-1148b6fc7b7d
 
 ## Yararlanılan Kaynaklar
  [Tello Drone Python Programming Tutorial | OpenCV](https://www.youtube.com/watch?v=LmEcyQnfpDA&t=522s&pp=ygUSdGVsbG8gZHJvbmUgY29kaW5n)
